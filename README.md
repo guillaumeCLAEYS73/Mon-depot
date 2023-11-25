@@ -1,2 +1,5 @@
 # Mon-depot
 premier depot
+
+Fine-grained personal access tokens
+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
